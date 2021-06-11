@@ -35,7 +35,7 @@ public:
 	void Render() override;
 
 private:
-
+	int number;
 
 
 };

@@ -9,7 +9,7 @@
 // Initialize member variables.
 MainScene::MainScene()
 {
-
+	number = 10;
 }
 
 // Initialize a variable and audio resources.
